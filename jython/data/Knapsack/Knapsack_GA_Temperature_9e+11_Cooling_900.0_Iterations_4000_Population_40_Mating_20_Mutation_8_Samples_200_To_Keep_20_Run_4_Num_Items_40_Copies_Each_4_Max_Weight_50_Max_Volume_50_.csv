@@ -1,0 +1,18 @@
+Evaluation Function Value,2828.9362486145474
+
+Evaluation Function Value,2828.9362486145474
+Problem,Knapsack
+Algorithm,GA
+Temperature,900000000000.0
+Cooling,900.0
+Iterations,4000
+Population,40
+Mating,20
+Mutation,8
+Samples,200
+To Keep,20
+Run,4
+Num Items,40
+Copies_Each,4
+Max Weight,50
+Max Volume,50

@@ -1,0 +1,12 @@
+Evaluation Function Value,3712.95563872455
+
+Problem,Knapsack
+Algorithm,MIMIC
+Samples,2500
+To Keep,500
+Iterations,5000
+Run,5
+Num Items,40
+Copies_Each,4
+Max Weight,50
+Max Volume,50

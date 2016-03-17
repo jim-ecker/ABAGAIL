@@ -1,0 +1,15 @@
+Evaluation Function Value,10.0
+
+Problem,4Peaks
+Algorithm,SA
+Temperature,100000000000.0
+Cooling,0.95
+Iterations,2000
+Population,200
+Mating,100
+Mutation,10
+Samples,200
+To Keep,20
+N,200
+Temp Denominator,5
+T,40

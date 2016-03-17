@@ -1,0 +1,12 @@
+Evaluation Function Value,3013.6768078140317
+
+Problem,Knapsack
+Algorithm,SA
+Temperature,100
+Cooling,0.95
+Iterations,200
+Run,7
+Num Items,40
+Copies_Each,4
+Max Weight,50
+Max Volume,50

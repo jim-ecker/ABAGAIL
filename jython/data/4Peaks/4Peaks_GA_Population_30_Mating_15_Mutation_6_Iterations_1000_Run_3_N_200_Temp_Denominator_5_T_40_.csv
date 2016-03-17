@@ -1,0 +1,12 @@
+Evaluation Function Value,23.0
+
+Problem,4Peaks
+Algorithm,GA
+Population,30
+Mating,15
+Mutation,6
+Iterations,1000
+Run,3
+N,200
+Temp Denominator,5
+T,40

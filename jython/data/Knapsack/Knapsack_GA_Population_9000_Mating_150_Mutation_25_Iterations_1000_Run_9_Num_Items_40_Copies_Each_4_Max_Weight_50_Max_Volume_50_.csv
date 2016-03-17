@@ -1,0 +1,14 @@
+Evaluation Function Value,2401.6319086052986
+
+Evaluation Function Value,2401.6319086052986
+Problem,Knapsack
+Algorithm,GA
+Population,9000
+Mating,150
+Mutation,25
+Iterations,1000
+Run,9
+Num Items,40
+Copies_Each,4
+Max Weight,50
+Max Volume,50

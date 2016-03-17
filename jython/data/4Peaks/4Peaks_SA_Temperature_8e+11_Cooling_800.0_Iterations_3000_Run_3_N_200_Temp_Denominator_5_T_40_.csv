@@ -1,0 +1,11 @@
+Evaluation Function Value,3.0
+
+Problem,4Peaks
+Algorithm,SA
+Temperature,800000000000.0
+Cooling,800.0
+Iterations,3000
+Run,3
+N,200
+Temp Denominator,5
+T,40

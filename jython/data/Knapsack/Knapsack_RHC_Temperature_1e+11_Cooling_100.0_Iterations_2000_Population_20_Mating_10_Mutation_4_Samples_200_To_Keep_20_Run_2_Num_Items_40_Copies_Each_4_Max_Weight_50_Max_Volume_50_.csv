@@ -1,0 +1,17 @@
+Evaluation Function Value,3373.21071425
+
+Problem,Knapsack
+Algorithm,RHC
+Temperature,100000000000.0
+Cooling,100.0
+Iterations,2000
+Population,20
+Mating,10
+Mutation,4
+Samples,200
+To Keep,20
+Run,2
+Num Items,40
+Copies_Each,4
+Max Weight,50
+Max Volume,50

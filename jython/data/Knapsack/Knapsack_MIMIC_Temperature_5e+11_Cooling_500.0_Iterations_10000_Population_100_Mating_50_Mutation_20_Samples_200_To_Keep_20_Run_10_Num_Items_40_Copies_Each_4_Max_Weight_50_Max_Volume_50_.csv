@@ -1,0 +1,17 @@
+Evaluation Function Value,3532.4023155017708
+
+Problem,Knapsack
+Algorithm,MIMIC
+Temperature,500000000000.0
+Cooling,500.0
+Iterations,10000
+Population,100
+Mating,50
+Mutation,20
+Samples,200
+To Keep,20
+Run,10
+Num Items,40
+Copies_Each,4
+Max Weight,50
+Max Volume,50

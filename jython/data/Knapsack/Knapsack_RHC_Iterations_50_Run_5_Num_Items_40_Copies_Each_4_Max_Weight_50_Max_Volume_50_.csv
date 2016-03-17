@@ -1,0 +1,10 @@
+Evaluation Function Value,2810.30291359
+
+Problem,Knapsack
+Algorithm,RHC
+Iterations,50
+Run,5
+Num Items,40
+Copies_Each,4
+Max Weight,50
+Max Volume,50

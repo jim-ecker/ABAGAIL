@@ -1,0 +1,10 @@
+Evaluation Function Value,147.0
+
+Problem,4Peaks
+Algorithm,GA
+Samples,500
+To Keep,20
+Iterations,1000
+N,200
+Temp Denominator,5
+T,40

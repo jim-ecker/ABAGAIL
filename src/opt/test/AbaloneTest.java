@@ -57,6 +57,7 @@ public class AbaloneTest {
             trainingTime /= Math.pow(10,9);
 
             Instance optimalInstance = oa[i].getOptimal();
+            System.out.println(optimalInstance.toString());
             networks[i].setWeights(optimalInstance.getData());
 
             double predicted, actual;
@@ -67,7 +68,7 @@ public class AbaloneTest {
 
                 predicted = Double.parseDouble(instances[j].getLabel().toString());
                 actual = Double.parseDouble(networks[i].getOutputValues().toString());
-
+                System.out.println("Predicted: " + predicted + " Actual: " + actual );
                 double trash = Math.abs(predicted - actual) < 0.5 ? correct++ : incorrect++;
 
             }
@@ -96,11 +97,12 @@ public class AbaloneTest {
                 network.run();
 
                 Instance output = instances[j].getLabel(), example = new Instance(network.getOutputValues());
+                //System.out.println("Instances output: " + output + " Example output: " + network.getOutputValues());
                 example.setLabel(new Instance(Double.parseDouble(network.getOutputValues().toString())));
                 error += measure.value(output, example);
             }
 
-            System.out.println(df.format(error));
+            //System.out.println(df.format(error));
         }
     }
 

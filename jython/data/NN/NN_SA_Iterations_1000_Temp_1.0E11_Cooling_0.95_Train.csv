@@ -1,0 +1,6 @@
+Iterations,1000
+Correct,125.0
+Incorrect,17.0
+Percent Correct,88.028
+RMSE,11.664
+Training Time,0.009
